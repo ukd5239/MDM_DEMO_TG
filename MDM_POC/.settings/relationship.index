@@ -1,0 +1,69 @@
+[ {
+  "baseItem" : {
+    "id" : "_J6hRcCI4Ee-4wbkqz-3vHQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_bGNwcBvtEe-wruG3Wf5g7A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-WuNJcdJEe-KuoDAUbqR0w",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "MOHRE_TEST:_J6hRcCI4Ee-4wbkqz-3vHQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "MOHRE_TEST:_PLbq0EKMEe-pDORsR7zR3w",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "MOHRE_TEST:_f5Qm0BzsEe-ywrnzLSpSxQ",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_f5Qm0BzsEe-ywrnzLSpSxQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_d7CQ8A3VEe-dLcju8oKeGg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_r9Ek0BaHEe-37Y5KLH8yHA",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_-WuNJcdJEe-KuoDAUbqR0w",
+    "version" : "0.1",
+    "type" : "joblet"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+} ]
