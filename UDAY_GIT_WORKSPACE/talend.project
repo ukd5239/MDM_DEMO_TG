@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_8XgqULy2EfGe8NcXmodq8g" label="Uday_GIT_Workspace" language="java" technicalLabel="UDAY_GIT_WORKSPACE" author="_8XgqUby2EfGe8NcXmodq8g" productVersion="Qlik Talend Cloud Enterprise Edition-8.0.1.20260925_1301-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ukd5239/MDM_DEMO_TG.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_8Yh-ALy2EfGe8NcXmodq8g" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_8XgqUby2EfGe8NcXmodq8g" login="453d693c-d220-4b6a-b9e9-4009b7d872df@cpphbv4vx6wdhhc.in.qlikcloud.com" firstName="Udaykiran" lastName="Dora" type="DQ"/>
+</xmi:XMI>
