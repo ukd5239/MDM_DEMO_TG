@@ -1,0 +1,46 @@
+{
+  "project": "UDAY_GIT_WORKSPACE",
+  "scanDate": "2026-10-14T10:06:41.069376100Z",
+  "validation": { "fixesApplied": 0 },
+  "projectType": "DI",
+  "inventory": {
+    "routes": 0,
+    "jobs": 24,
+    "beans": 0,
+    "routines": 1,
+    "services": 0,
+    "contexts": 9
+  },
+  "dependencies": {
+    "totalComponents": 56,
+    "standard": 51,
+    "exchange": 0,
+    "unknown": 5,
+    "totalImports": 10,
+    "packageGroups": 3,
+    "contextGroups": ["DIP_MDM","MDMLite","NLGI","context"],
+    "crossProjectRefs": []
+  },
+  "patterns": {
+    "G1": {"name": "BasicDataSource import (fix: dbcp1 FQN)", "occurrences": 0, "files": 0},
+    "G2": {"name": "BasicDataSource instantiation", "occurrences": 0, "files": 0},
+    "G3": {"name": "PoolingDataSource import", "occurrences": 0, "files": 0},
+    "G4": {"name": "PoolingDriver import", "occurrences": 0, "files": 0},
+    "G5": {"name": "ObjectPool import (pool->pool2)", "occurrences": 0, "files": 0},
+    "G6": {"name": "DBCP1 Maven dependency (scan-only)", "occurrences": 0, "files": 0},
+    "G7": {"name": "Pool1 Maven dependency", "occurrences": 0, "files": 0},
+    "G8": {"name": "DBCP in beans", "occurrences": 0, "files": 0},
+    "G9": {"name": "Missing DBCP2 dep in beans pom", "occurrences": 0, "files": 0},
+    "G10": {"name": "Deleted routes in talend.project", "occurrences": 0, "files": 0},
+    "C1": {"name": "addRegistry(registry) - Camel 2 API", "occurrences": 0, "files": 0},
+    "C2": {"name": "simple() expression", "occurrences": 0, "files": 0},
+    "C3": {"name": "cSplitter EXPRESSION mode", "occurrences": 0, "files": 0},
+    "C4": {"name": "header() patterns", "occurrences": 0, "files": 0},
+    "C5": {"name": "body() patterns", "occurrences": 0, "files": 0}
+  },
+  "summary": {
+    "totalIssues": 0,
+    "totalFilesAffected": 0,
+    "patternsWithIssues": 0
+  }
+}
